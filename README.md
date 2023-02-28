@@ -9,7 +9,8 @@
 - ℹ I, mostly, standby at [*`CyberCodeOnline (CCO)`*](https://cybercodeonline.com)'s Tagalog channel
 - 👤 My nickname, **Kal**, is given to me by my CCO friends, `Chief_Marauder` & `Ain_sel`
 - 🔭 I’m currently working on...
-  + 🔴 $${\color{red}Autonomous Storage Unit (ASU)}$$
+  + 🎒 `Autonomous Storage Unit (ASU)`
+  + 🛒 Sell some of my low level weapons/gears
 - 🤝 Gang/s:
   + Former member of ~`X_MOD [X_X]`~, ~`Thoughts_of_Tacos [TOT]`~, ~`Kalasag [KLG]`~
   + Former leader/founder of ~`Ctrl_and_Shift [CAS]`~, ~`Peace_OutBreak [POB]`~
