@@ -4,6 +4,7 @@
 - 👤 You can call me **`Kal`**. That’s the nickname my in-game friends gave me.
 - 📖 My favorite quote is...
     > *"...it takes faith to fall asleep."* &mdash;Erich Fromm, The Art of Loving
+- 🎮 According to [The Quantic Lab](https://quantic.page.link/h5ioQWnBvFZi84cr7), I'm a ***Gladiator*** type of gamer
 
 ### at CCO
 - ℹ I, mostly, standby at [*`CyberCodeOnline (CCO)`*](https://cybercodeonline.com)'s Tagalog channel
