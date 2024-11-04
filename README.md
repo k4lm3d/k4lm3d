@@ -1,10 +1,11 @@
 <!-- **k4lm3d/k4lm3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### About me
 
-- 👤 You can call me **`Kal`**. That’s the nickname my in-game friends gave me.
-- 📖 My favorite quote is...
-    > *"...it takes faith to fall asleep."* &mdash;Erich Fromm, The Art of Loving
+- 🌱 Hi, I’m K4LM3D *(/ka:md/)*!
+- 🔭 I play games mostly text-based MMORPGs, CYOAs and ARGs.
 - 🎮 According to [The Quantic Lab](https://quantic.page.link/h5ioQWnBvFZi84cr7), I'm a ***Gladiator*** type of gamer
+- ⚡ I support indie games and small group of developers by playing their games, and contributing to their work such as keeping the community friendly and non-toxic.
+- ✍ I write some role play stuff. Sharing stories about my journey in the game. You can check them out on my [website](https://kalmed.localplayer.dev).
 
 <!--
 - 📫 How to reach me: ...
